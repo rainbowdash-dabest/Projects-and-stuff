@@ -1,0 +1,1 @@
+Desmos is pretty OP, and I've always found reducing visuals to their mathematical basis gives a hella better intuition than pre-made models.

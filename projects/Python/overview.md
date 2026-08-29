@@ -1,0 +1,1 @@
+There's little difference bything python and a python; both bite the charmer, and charm the user.
