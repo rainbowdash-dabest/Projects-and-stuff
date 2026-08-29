@@ -1,16 +1,14 @@
-3D Rayquaza card.
-  Laser cut 
-  and assembled by my squirrels fingers. You can adjust the case by changing the hook sizes, and insert
-  or remove layers however you want. Alternatives include a light up backing (sadly with only a makeshift
-  masking tape diffuser), or make the back transparent with the red Pokémon cover. Stand is also lazercut.
-  (PS: there isn't any green in the entire model, the apparent colour is exclusively additively colour-mixed
-  from yellow and blue.)
+3D Pokemon card; Rayquaza.
+  Laser cut model with multiple moddable layers. You can adjust the case by changing the hook sizes, and insert
+  or remove layers however you want. Alternatives include a light-up diffuser, a transparent backed red Pokémon
+  cover, as well as hollow and solid ply layerss. Stand is also lazercut.(PS: there isn't any green in the entire
+  model, the apparent color is exclusively additively colour-mixed from yellow and blue.)
 Created as a birthday gift because why not.
   
-Lasercut and Engraving; Clear, Red, Blue, Yellow Acrylic, 1/8" Plywood, 
+Laser Cut and Engraved; Clear, Red, Blue, Yellow Acrylic, 1/8" Plywood, 
 Couple LEDs, and basic soldering for the backlight.
 
-All dxf files designed on Fusion 360 and arranged out on Adobe Photoshop.
+All dxf files were designed on Fusion 360 and arranged on Adobe Photoshop.
 
 ## Legal Disclaimer
 This project is a piece of unofficial fan art and is not endorsed by, affiliated with, or associated with Nintendo, Game Freak, and The Pokémon Company. 
