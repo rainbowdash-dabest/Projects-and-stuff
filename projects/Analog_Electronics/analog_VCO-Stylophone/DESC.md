@@ -1,4 +1,4 @@
-# ANALOG VCO - Stylophone
+## ANALOG VCO - Stylophone
 *[In progress]*
 
 An analog exponential converter and op amp system that turns a NE555 into a multi-octave switching VCO with a stylophone input and simple amp output.
