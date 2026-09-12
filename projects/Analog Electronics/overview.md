@@ -1,1 +1,0 @@
-Started experimenting with random circuits Summer '26 trying to figure out how stylophones work, and wound up stumbling my way through Scherz's *'Practical Electronics'* for these shenanigans.

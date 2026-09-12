@@ -5,7 +5,9 @@ The crown itself fits the average head.
 
 <p align="center">
   <img src="cool_photos/sword_up_close.jpg" width="40%" />
-  <img src="cool_photos/Model_sword_out.png" width="55%" />
+  <img src="cool_photos/Model_sword_out.png" width="59%" />
+  <img src="cool_photos/assembled.jpg" width="49%" />
+  <img src="cool_photos/compartment_open.jpg" width="50%" />
 </p>
 
 Created as a birthday gift because why not.
