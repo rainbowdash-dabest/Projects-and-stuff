@@ -1,4 +1,4 @@
-# Adjustable Sliced Rayquaza
+# Poseable Sliced Rayquaza
 Just a sliced Rayquaza model with alternate plywood and green acrylic layers.
 The cool thing about it tho is that you can rotate every slice about its axle. That's coz of how I designed
 the dowels and nuts (friction snapfit acrylic). So you can pose the model and rotate it. Has a mini base too!
