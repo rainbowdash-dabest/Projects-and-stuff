@@ -39,7 +39,7 @@ Latest (v laggy); Spectre; [vrs_10](https://www.desmos.com/calculator/2depjdklo1
 
 Driving in my car (Asgore meme); [vrs_3](https://www.desmos.com/calculator/9s6svth5te)
 <p align="center">
-  <video src="Images_and_Gifs/driving_in_my_car.mov" controls="controls" width="70%">
+  <video src="Images_and_Gifs/driving_in_my_car.mp4" controls="controls" width="70%">
   </video>
 </p>
 
@@ -48,7 +48,7 @@ Tetris; [vrs_1](https://www.desmos.com/calculator/lgvknwh6cw)
 
 ## [Audio-Visual additive synth](https://www.desmos.com/calculator/nhscqxwi6j)
 <p align="center">
-  <video src="Images_and_Gifs/fourier.mov"
+  <video src="Images_and_Gifs/fourier.mp4"
   controls="controls" width="90%">
   </video>
 </p>
