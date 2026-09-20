@@ -35,7 +35,8 @@ A readme to list things out, obviously.
   <br /><br />
 
   <!-- 3: Desmos -->
-  <img src="projects/Desmos_(permalinks)/Images_and_Gifs/rot_bunny.gif" width="30%" />
-  <img src="projects/Desmos_(permalinks)/Images_and_Gifs/spectre.gif" width="32%" />
-  <img src="projects/Desmos_(permalinks)/Images_and_Gifs/light_tunnel.gif" width="30%" />
+  <img src="projects/Desmos_(permalinks)/Images_and_Gifs/spectre.gif" width="41%" />
+  <img src="projects/Desmos_(permalinks)/Images_and_Gifs/grade_dist.gif" width="38%" />
+  <img src="projects/Desmos_(permalinks)/Images_and_Gifs/rot_bunny.gif" width="38%" />
+  <img src="projects/Desmos_(permalinks)/Images_and_Gifs/light_tunnel.gif" width="41%" />
 </p>
